@@ -1,0 +1,16 @@
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\Zad1.exe
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\Zad1.deps.json
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\Zad1.runtimeconfig.json
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\Zad1.runtimeconfig.dev.json
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\Zad1.dll
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\ref\Zad1.dll
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\bin\Debug\net5.0\Zad1.pdb
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.csprojAssemblyReference.cache
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.AssemblyInfoInputs.cache
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.AssemblyInfo.cs
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.csproj.CoreCompileInputs.cache
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.dll
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\ref\Zad1.dll
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.pdb
+D:\Study\Current\C#_Lab\Lab Repo\ProgrammingLabs\Lab6\Zad1\Zad1\obj\Debug\net5.0\Zad1.genruntimeconfig.cache
